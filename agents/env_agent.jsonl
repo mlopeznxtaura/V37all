@@ -1,0 +1,2 @@
+{"version": "v37", "status": "1 remaining (LOW)", "gap": "IF5_network_state", "description": "Live network polling via psutil/ping", "priority": "LOW"}
+{"version": "v37", "status": "1 remaining (LOW)", "gap": "IF5_rf_state", "description": "SDR/RF sensor integration", "priority": "LOW"}

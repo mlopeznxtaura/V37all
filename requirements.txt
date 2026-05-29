@@ -1,0 +1,14 @@
+nicegui
+requests
+# optional for M3 validator (falls back to n-gram heuristic if absent)
+# ollama server must be running separately
+
+# optional for OF1 multimodal encoder (priority: CLIP > torchvision > numpy DCT)
+# torch
+# torchvision
+# clip-by-openai
+# scipy  # for DCT-based fallback
+
+# optional for live env streaming
+# stable-worldmodel
+# gymnasium
